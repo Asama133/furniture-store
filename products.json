@@ -1,0 +1,406 @@
+[
+    [
+        {
+            "serialNumber": 1,
+            "title": "Bed Furniture",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 300 ,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Bed",
+            "img": "img/bed1.png"
+          },
+          {
+            "serialNumber": 2,
+            "title": "Bed Furniture",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 300,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Bed",
+            "img": "img/bed2.jpg"
+          },
+          {
+            "serialNumber": 3,
+            "title": "Bed Furniture",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 400,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Bed",
+            "img": "img/bed3.jpg"
+          },
+          {
+            "serialNumber": 4,
+            "title": "Bed Furniture",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 565,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Bed",
+            "img": "img/bed4.jpg"
+          }
+    ],
+    [
+        {
+            "serialNumber": 5,
+            "title": "Sofa",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 300,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Sofa",
+            "img": "img/sofa1.png"
+          },
+          {
+            "serialNumber": 6,
+            "title": "Sofa",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 435,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Sofa",
+            "img": "img/sofa2.jpg"
+          },
+          {
+            "serialNumber": 7,
+            "title": "Sofa",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 354,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Sofa",
+            "img": "img/sofa3.jpg"
+          },
+          {
+            "serialNumber": 8,
+            "title": "Sofa",
+            "description": "HP Pavilion 15-DK1056WM Gaming...",
+            "price": 356,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "Sofa",
+            "img": "img/sofa4.jpg"
+          }
+    ],
+    [
+      {
+          "serialNumber": 9,
+          "title": "Dining Room",
+          "description": "Table Set Modern Classic 6 Seater Luxury",
+          "price": 864,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "HP Pavilion",
+          "category": "Dinner-Room",
+          "img": "img/dinner1.jpg"
+        },
+        {
+          "serialNumber": 10,
+          "title": "Dining Room",
+          "description": "Table Set Modern Classic 6 Seater Luxury",
+          "price": 346,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "HP Pavilion",
+          "category": "Dinner-Room",
+          "img": "img/dinner2.jpg"
+        },
+        {
+          "serialNumber": 11,
+          "title": "Dining Room",
+          "description": "Table Set Modern Classic 6 Seater Luxury",
+          "price": 325,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "HP Pavilion",
+          "category": "Dinner-Room",
+          "img": "img/dinner3.jpg"
+        },
+        {
+          "serialNumber": 12,
+          "title": "Dining Room",
+          "description": "Table Set Modern Classic 6 Seater Luxury",
+          "price": 457,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "HP Pavilion",
+          "category": "Dinner-Room",
+          "img": "img/dinner4.jpg"
+        }
+  ],
+  [
+    {
+        "serialNumber": 13,
+        "title": "Living Room",
+        "description": "HP Pavilion 15-DK1056WM Gaming...",
+        "price": 230,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "Living-Room",
+        "img": "img/living1.jpg"
+      },
+      {
+        "serialNumber": 14,
+        "title": "Living Room",
+        "description": "HP Pavilion 15-DK1056WM Gaming...",
+        "price": 599,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "Living-Room",
+        "img": "img/living2.jpg"
+      },
+      {
+        "serialNumber": 15,
+        "title": "Living Room",
+        "description": "HP Pavilion 15-DK1056WM Gaming...",
+        "price":568,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "Living-Room",
+        "img": "img/living3.jpg"
+      },
+      {
+        "serialNumber": 16,
+        "title": "Living Room",
+        "description": "HP Pavilion 15-DK1056WM Gaming...",
+        "price": 756,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "Living-Room",
+        "img": "img/living4.jpg"
+      }
+],
+[
+  {
+      "serialNumber": 17,
+      "title": "Table",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 325,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Table",
+      "img": "img/table1.png"
+    },
+    {
+      "serialNumber": 18,
+      "title": "Table",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 834,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Table",
+      "img": "img/table2.png"
+    },
+    {
+      "serialNumber": 19,
+      "title": "Table",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 239,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Table",
+      "img": "img/table3.png"
+    },
+    {
+      "serialNumber": 20,
+      "title": "Table",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 986,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Table",
+      "img": "img/table4.png"
+    }
+],
+[
+  {
+      "serialNumber": 21,
+      "title": "Chair",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 231,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Chair",
+      "img": "img/chair1.png"
+    },
+    {
+      "serialNumber": 22,
+      "title": "Chair",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 432,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Chair",
+      "img": "img/chair2.png"
+    },
+    {
+      "serialNumber": 23,
+      "title": "Chair",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 124,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Chair",
+      "img": "img/chair3.png"
+    },
+    {
+      "serialNumber": 24,
+      "title": "Chair",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 213,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Chair",
+      "img": "img/chair4.png"
+    }
+],
+[
+  {
+      "serialNumber": 25,
+      "title": "chest of drawers",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 199,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Other",
+      "img": "img/other1.jpg"
+    },
+    {
+      "serialNumber": 26,
+      "title": "beside table",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 109,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Other",
+      "img": "img/other2.png"
+    },
+    {
+      "serialNumber": 27,
+      "title": "chest of drawers",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 169,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Other",
+      "img": "/img/other3.png"
+    },
+    {
+      "serialNumber": 28,
+      "title": "beside table",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 139,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Other",
+      "img": "img/other4.png"
+    }
+],
+[
+  {
+      "serialNumber": 29,
+      "title": "Kitchen",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 199,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Kitchen",
+      "img": "img/kitchen1.jpg"
+    },
+    {
+      "serialNumber": 30,
+      "title": "Kitchen",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 109,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Kitchen",
+      "img": "img/kitchen2.jpg"
+    },
+    {
+      "serialNumber": 31,
+      "title": "Kitchen",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 169,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Kitchen",
+      "img": "img/kitchen3.jpg"
+    },
+    {
+      "serialNumber": 32,
+      "title": "Kitchen",
+      "description": "HP Pavilion 15-DK1056WM Gaming...",
+      "price": 139,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Kitchen",
+      "img": "img/kitchen4.jpg"
+    }
+]
+    
+]
+    
+
+    
